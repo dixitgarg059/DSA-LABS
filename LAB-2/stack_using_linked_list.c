@@ -21,7 +21,10 @@ void push(int val) //1
 
 void pop()
 {
-	head = head->next;
+        if(head!=NULL)
+	        head = head->next;
+        else
+                printf("Underflow\n");  
 }
 
 int top()
