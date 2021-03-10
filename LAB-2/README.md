@@ -8,7 +8,9 @@
 
 3. Finding the rectangle with the largest area, Histrogram. (https://www.spoj.com/problems/HISTOGRA/ )
 
-4. Checking if there exists a cycle in the linked list. (Floyd Cycle detection algorithm)
+4. Implementation of stack using linked list
+
+5. Checking if there exists a cycle in the linked list. (Floyd Cycle detection algorithm)
 
 
 # Homework
