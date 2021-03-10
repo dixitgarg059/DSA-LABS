@@ -1,4 +1,4 @@
-#Problems discussed in Lab
+# Problems discussed in Lab
 
 1. Correct approach for finding the shortest prime factor.
 
@@ -11,7 +11,7 @@
 4. Checking if there exists a cycle in the linked list. (Floyd Cycle detection algorithm)
 
 
-#Homework
+# Homework
 
 To implement the questions discussed Lab, submit whichever are possible.
 

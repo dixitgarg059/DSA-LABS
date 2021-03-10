@@ -1,4 +1,4 @@
-#Problems discussed in class
+# Problems discussed in class
 1. Reversing a linked list using pointers.
 
 2. Find maximum/minimum in a window of size k (https://leetcode.com/problems/sliding-window-maximum/)
@@ -7,7 +7,7 @@
 
 4. Code for problem Weird-Race, in cpp is provided.
 
-#Homework
+# Homework
 
 1. Implement the problems discussed in Lab. 
 
