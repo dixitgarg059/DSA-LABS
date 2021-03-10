@@ -1,6 +1,6 @@
 # Problems discussed in Lab
 
-1. Correct approach for finding the shortest prime factor.
+1. Approach for finding the shortest prime factor.
 
 1. To check if the given string is a valid parenthesis. (https://leetcode.com/problems/valid-parentheses/ )
 
