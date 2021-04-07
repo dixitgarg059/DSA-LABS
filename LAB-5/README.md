@@ -2,7 +2,7 @@
 1. Given an integer N, find the Nth number consisting only of odd digits. (Queue)
 	(Link:- https://www.geeksforgeeks.org/nth-number-made-up-of-odd-digits-only/)
 
-2. Doubts on Stacks. Approach for Histrogram
+2. Doubts on Stacks. Approach for Histrogram.
 
 3. Concept of Hashing, calculating Prefix and Suffix Hash.
 
