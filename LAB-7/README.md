@@ -10,7 +10,7 @@
 
 # Homework
 
-1. Implement a Heap.
+1. Implementing a Heap.
 
 2. Problem on Heap. (Link:- https://www.hackerearth.com/problem/approximate/little-monk-and-root-2ece0b13/) (Some error with site checker).
 
