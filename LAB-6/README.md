@@ -8,7 +8,7 @@
 4. Question on sorting an array with restrictions using stacks. 
 	(Railroad Sort, PFA)
 
-#Homework
+# Homework
 
 1. Finding the longest subtring that is a prefix, a suffix and lies inside a string. 
    (Problem Password, Link:- https://codeforces.com/problemset/problem/126/B?mobile=false)
