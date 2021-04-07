@@ -1,0 +1,9 @@
+https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/monk-and-his-friends/ 
+
+https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/distinct-count/
+
+https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/b-sequence-f919fc86/
+
+https://www.spoj.com/problems/BST/
+
+https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees
