@@ -10,7 +10,7 @@
 
 5. Given two string S and T. |S| <= 10^5 and |T| <= 10^5, answering whether T is a substring or not in O(|T|+|S|) time.
 
-#Homework
+# Homework
 
 1. Logic for Problem Troy (PFA)
 
